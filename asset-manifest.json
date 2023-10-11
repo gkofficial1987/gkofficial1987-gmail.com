@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/gkofficial1987-gmail.com/static/css/main.abd64e84.css",
-    "main.js": "/gkofficial1987-gmail.com/static/js/main.fade41a8.js",
+    "main.js": "/gkofficial1987-gmail.com/static/js/main.9e9f8fd8.js",
     "static/media/item.png": "/gkofficial1987-gmail.com/static/media/item.735a29a4e8bd811f65c1.png",
     "static/media/home-cart-2.png": "/gkofficial1987-gmail.com/static/media/home-cart-2.517ec9eb7e0f6ca60091.png",
     "static/media/demeter.png": "/gkofficial1987-gmail.com/static/media/demeter.e571af394785b0dadc6d.png",
@@ -10,10 +10,10 @@
     "static/media/walmart.png": "/gkofficial1987-gmail.com/static/media/walmart.537335ac2a15a729aee0.png",
     "index.html": "/gkofficial1987-gmail.com/index.html",
     "main.abd64e84.css.map": "/gkofficial1987-gmail.com/static/css/main.abd64e84.css.map",
-    "main.fade41a8.js.map": "/gkofficial1987-gmail.com/static/js/main.fade41a8.js.map"
+    "main.9e9f8fd8.js.map": "/gkofficial1987-gmail.com/static/js/main.9e9f8fd8.js.map"
   },
   "entrypoints": [
     "static/css/main.abd64e84.css",
-    "static/js/main.fade41a8.js"
+    "static/js/main.9e9f8fd8.js"
   ]
 }
